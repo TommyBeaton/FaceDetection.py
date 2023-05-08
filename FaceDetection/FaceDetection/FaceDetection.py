@@ -1,7 +1,7 @@
 import cv2
 import sys
 
-cascPath = 'C:\\Users\\tbeat\\source\\GitHub\\FaceDetection.py\\FaceDetection\\FaceDetection\\classifier.xml'
+cascPath = '<path to classifer>'
 faceCascade = cv2.CascadeClassifier(cascPath)
 
 video_capture = cv2.VideoCapture(0)
