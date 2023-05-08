@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce059093-6196-414e-bae6-930c68da73d2": {
+      "ProjectGuid": "ce059093-6196-414e-bae6-930c68da73d2",
+      "DisplayName": "FaceDetection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
